@@ -1,0 +1,131 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.LoginPage {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  height: 700px;	
+}
+.login {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  justify-content: left;
+  max-width: 900px;
+  margin: 0 auto 40px;
+  padding-top: 10%;
+}
+
+
+.ChatPage{
+  
+}
+.chatHeader{
+  
+}
+.ChatHeaderBetween{
+
+}
+.ActiveUsers{
+  
+}
+.Message-input{
+
+}
+
+
+.SendMessageBar{
+
+}
+.message-bar{
+
+}
+
+
+.ActiveUsers{
+
+}
+.active-user-head-body{
+}
+.active-list{
+  list-style-type: none;
+  border-right: 1px solid black;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  background-color: cornsilk;
+  width: 10%;
+}
+.users{
+}
+
+
+.AllMessages{
+
+}
+.MessageList{
+
+}
+.Messages-other{
+}
+.Messages-currentMember{
+}
+.Message-content{
+}
+.username{
+display: block;
+  color: gray;
+  font-size: 14px;
+  padding-bottom: 4px;
+}
+.message{
+display: flex;
+  flex-direction: column;
+  padding: 10px;
+  max-width: 400px;
+  margin: 0;
+  border-radius: 12px;
+  background-color: white;
+}
+.text{
+
+}
+.created{
+}
+.PopUpScreen{
+}
+.popUp{
+}
+.popUpClick{
+}
+
+input {
+  justify-content: center;
+  text-align: center;
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid black;
+  flex-grow: 1;
+}
+
+button {
+  padding: 5px 10px;
+  font-size: 16px;
+  background-color: orangered;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  margin-left: 10px;
+}
+
+
+
+
+
+
